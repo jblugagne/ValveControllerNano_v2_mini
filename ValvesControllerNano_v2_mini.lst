@@ -1,0 +1,30 @@
+eeschema (2013-june-11)-stable  >> Creation date: Tue 16 Feb 2016 04:38:56 PM CET
+#Cmp ( order = Reference )
+| J1         JUMPER_2    
+| J2         JUMPER_3    
+| J3         JUMPER_3    
+| J4         JUMPER_3    
+| P1         CONN_10_V   
+| P2         CONN_10_V   
+| R1         4.7k        
+| R2         4.7k        
+| U1         ULN2003     
+| U2         MCP23017    
+| U3         ULN2003     
+#End Cmp
+
+#Cmp ( order = Value )
+| JUMPER_2     J1        
+| JUMPER_3     J2        
+| JUMPER_3     J3        
+| JUMPER_3     J4        
+| CONN_10_V    P1        
+| CONN_10_V    P2        
+| 4.7k         R1        
+| 4.7k         R2        
+| ULN2003      U1        
+| ULN2003      U3        
+| MCP23017     U2        
+#End Cmp
+
+#End List

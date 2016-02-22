@@ -1,0 +1,80 @@
+Cmp-Mod V01 Created by CvPcb (2013-june-11)-stable date = Tue 16 Feb 2016 05:23:21 PM CET
+
+BeginCmp
+TimeStamp = /56C3482A;
+Reference = J1;
+ValeurCmp = JUMPER_2;
+IdModule  = jumper_2;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C342CF;
+Reference = J2;
+ValeurCmp = JUMPER_3;
+IdModule  = jumper_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C342DE;
+Reference = J3;
+ValeurCmp = JUMPER_3;
+IdModule  = jumper_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C342ED;
+Reference = J4;
+ValeurCmp = JUMPER_3;
+IdModule  = jumper_3;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C33726;
+Reference = P1;
+ValeurCmp = CONN_10_V;
+IdModule  = bornier10;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C33735;
+Reference = P2;
+ValeurCmp = CONN_10_V;
+IdModule  = bornier10;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C34952;
+Reference = R1;
+ValeurCmp = 4.7k;
+IdModule  = resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C34961;
+Reference = R2;
+ValeurCmp = 4.7k;
+IdModule  = resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C331BB;
+Reference = U1;
+ValeurCmp = ULN2003;
+IdModule  = uln2003;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C33153;
+Reference = U2;
+ValeurCmp = MCP23017;
+IdModule  = mcp23017_pdip;
+EndCmp
+
+BeginCmp
+TimeStamp = /56C331DD;
+Reference = U3;
+ValeurCmp = ULN2003;
+IdModule  = uln2003;
+EndCmp
+
+EndListe
